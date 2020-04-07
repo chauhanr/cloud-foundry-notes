@@ -103,3 +103,6 @@ properties:
 here the CF will look for this property in cred hub and then set it here. 
 
 
+## Bosh Deployment Model 
+
+![bosh-deployment](images/bosh-deployment.png) 

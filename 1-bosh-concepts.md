@@ -54,8 +54,6 @@ etc.
 Cloud Foundry is encapsulated in a BOSH release and is present in the cf-deployments project Example
 of an instance group are Diego cell, cloud controller etc. 
 
-Cloud Foundry is encapsulated in a BOSH release and is present in the cf-deployment project.   
-
 ### Deployments 
 
 BOSH deploys software to the actual machine using what is called a deployment manifest which is
